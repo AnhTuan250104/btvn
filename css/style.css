@@ -1,0 +1,37 @@
+#back{
+    margin-top: 100px;
+}
+.kocachle{
+    padding-left: 40px;
+}
+.cachle{
+    position: relative;
+    padding-left: 50px;
+}
+.cachle span{
+position: absolute;
+top: 0;
+left: 40px;
+height: 100%;
+width: 5px;
+background-color: yellow;
+}
+.chardown{
+    text-align: center;
+    margin-top: 20px;
+}
+.chardown button{
+    background-color: rgb(230, 234, 38);
+    border: none;
+    padding: 15px 50px;
+    border-radius: 10px;
+}
+p{
+    font-size: 27px;
+}
+.tuan{
+    background-color: rgba(222, 222, 99, 0.789);
+    color: rgba(0, 0, 0, 0.676);
+    padding: 0 10px;
+    border-radius: 10px;
+}
